@@ -13,6 +13,7 @@ if(Input){
 		
 	}else{
 	rigidbody.AddForce(0,0,0);
+
 	}
 	
 }
